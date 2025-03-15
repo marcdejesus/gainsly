@@ -1,0 +1,17 @@
+{
+  "name": "gainsly",
+  "version": "1.0.0",
+  "description": "Fitness tracking application",
+  "main": "index.js",
+  "scripts": {
+    "dev:all": "node start-dev.js"
+  },
+  "keywords": [
+    "fitness",
+    "tracking",
+    "workout",
+    "health"
+  ],
+  "author": "Marc DeJesus",
+  "license": "MIT"
+} 
